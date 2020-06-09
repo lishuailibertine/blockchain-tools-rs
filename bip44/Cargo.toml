@@ -1,5 +1,5 @@
 [package]
-name = "zx-bip44"
+name = "bip44"
 version = "0.1.0"
 authors = ["Zondax GmbH <info@zondax.ch>"]
 edition = "2018"
